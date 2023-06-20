@@ -13,7 +13,7 @@ Install the required dependencies
 npm install
 ```
 
-Then launch it, either in the foregorund...
+Then launch it, either in the foreground...
 
 ```bash
 npm start
